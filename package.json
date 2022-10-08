@@ -1,0 +1,26 @@
+{
+  "name": "captcha-simple-slash-commands",
+  "version": "1.0.0",
+  "description": "Welcome Captcha bot Discord slash commands",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "simple",
+    "commands",
+    "slash",
+    "oldmodz95",
+    "protondev"
+  ],
+  "author": "oldmodz95",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.1",
+    "express": "^4.17.1",
+    "megadb": "^3.0.0"
+  }
+}

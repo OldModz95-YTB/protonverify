@@ -1,0 +1,22 @@
+{
+    "_support": "https://discord.gg/MS6TMgRfqB",
+    "token": "",
+    "guildID": "902292316033802310", "_comment": "ID DE VOTRE SERVEUR",
+    "channelReport": "976089858420396032", "_comment1": "ID DU CHANNEL",
+
+    "RoleList": {
+        "member": "923513036994641990"
+    },
+    "_comment2": "AJOUTER L'ID DU ROLE A AJOUTER APRES LE CAPTCHA",
+
+    "ChannelList": {
+        "verify": "923742695200006144",
+        "reboot": "969905338188955718"
+    },
+    "_comment3": "ID CHANNEL",
+
+    "WhiteList": [
+        "902278011691368458"
+    ],
+    "_comment4": "AJOUTER LES ID DE VOS ADMIN"
+}
